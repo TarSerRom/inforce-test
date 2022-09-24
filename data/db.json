@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "imageUrl": "https://i0.wp.com/www.lovetennisblog.com/wp-content/uploads/2021/01/20200718_160342-scaled.jpg?fit=2560%2C1472&ssl=1",
+      "name": "First product",
+      "count": "5",
+      "width": "10",
+      "height": "10",
+      "weight": "15",
+      "comment": "Perfect decision for top spin!"
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1734/0999/files/Functional_Tennis_Saber_on_Clay_Court_1800x.jpg?v=1651147828",
+      "name": "Second product",
+      "count": "4",
+      "width": "15",
+      "height": "15",
+      "weight": "20",
+      "comment": "Ideal balance for net working!"
+    }
+  ]
+}
